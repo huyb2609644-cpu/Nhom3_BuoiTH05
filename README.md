@@ -6,6 +6,7 @@
 3. `Infographic - Loi ich cong nghe so.png`
 4. `index.html`
 5. `video lợi ích công nghệ số.mp4`
+6. `Phan_3.docx`
 
 ## Minh bạch công cụ AI & Trích dẫn nguồn
 - **Nội dung văn bản:** Sử dụng Google Gemini/Bard để gợi ý cấu trúc (Đã biên tập lại).
